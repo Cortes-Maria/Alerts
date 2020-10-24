@@ -1,0 +1,22 @@
+{
+  "alerts" = [
+    {
+        "place": "Parrita", 
+        "disaster": "Inundacion",
+        "date": "20/10/20",
+        "time": "10:00 pm"           
+    },
+    {
+        "place": "Alajuela", 
+        "disaster": "Temblor",
+        "date": "20/10/20",
+        "time": "10:00 pm"           
+    },
+    {
+        "place": "Chepe", 
+        "disaster": "Chepe",
+        "date": "20/10/20",
+        "time": "10:00 pm"           
+    }
+  ]
+}
